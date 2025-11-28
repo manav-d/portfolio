@@ -850,7 +850,7 @@ span{
 
   opacity: 0;
   animation: fadeIn 1.2s ease-out forwards;
-  animation-delay: 0.6s; /* Optional delay for sync with text */
+  animation-delay: 0.6s; 
 }
 
 
@@ -874,6 +874,7 @@ span{
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10rem; /* reduced from 8rem */
+  gap: 10rem; 
 }
+
 
